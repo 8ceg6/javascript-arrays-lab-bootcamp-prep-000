@@ -18,5 +18,5 @@ function destructivelyRemoveFirstKitten(array){
 }
 
 function appendKitten(array){
-          return appendKittens('Broom')
+          return 
 }
